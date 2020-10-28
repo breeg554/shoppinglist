@@ -22,6 +22,7 @@
     "web": {
       "favicon": "./app/assets/favicon.png"
     },
-    "description": ""
+    "description": "",
+    "githubUrl": "https://github.com/breeg554/shoppinglist"
   }
 }
